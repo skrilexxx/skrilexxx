@@ -9,13 +9,13 @@ Building UrbexVault.
 
 ## Currently building
 
-**UrbexVault** — a platform for documenting and sharing urban exploration locations. I'm building the backend.
+**UrbexVault** - a platform for documenting and sharing urban exploration locations. I'm building the backend.
 
 Three private repos:
 
-- `app-backend` — NestJS API, Drizzle ORM, Docker *(my side)*
-- `app-backend-panel` — admin panel (Vite, React, TypeScript, Tailwind, shadcn/ui) *(my side)*
-- `website` — public site, frontend + backend (Next.js, Drizzle)
+- `app-backend` - NestJS API, Drizzle ORM, Docker *(my side)*
+- `app-backend-panel` - admin panel (Vite, React, TypeScript, Tailwind, shadcn/ui) *(my side)*
+- `website` - public site, frontend + backend (Next.js, Drizzle)
 
 ## Contact
 

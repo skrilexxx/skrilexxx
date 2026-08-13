@@ -27,13 +27,6 @@ Three private repos:
   <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/skrilexxx/skrilexxx/output/snake-dark.svg">
 </picture>
 
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=skrilexxx&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&hide=issues)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skrilexxx&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E)
-
-</div>
-
 ## Contact
 
 contact.adamkopriva@gmail.com
